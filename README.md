@@ -1,10 +1,6 @@
 
 # Code ceaselessly（码不停蹄）
 
-<img src='timg.gif'></img>
-
-![](timg.gif)
-
 <!--
 ### Hi there 👋
 
