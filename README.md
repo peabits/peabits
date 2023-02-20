@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peabits)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=peabits&count_private=true&show_icons=true&theme=radical" style="height:150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peabits&layout=compact&hide=html,css,tex,matlab&theme=radical" style="height:150px" />
