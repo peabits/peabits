@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://badges.toozhao.com/badges/01HRKVABRCAX2H02MCFK9BYGG7/orange.svg" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=peabits&count_private=true&show_icons=true&theme=radical" style="width:512px" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peabits&layout=compact&hide=html,css,tex,matlab&theme=radical" style="width:512px" />
